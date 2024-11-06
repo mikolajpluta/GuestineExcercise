@@ -6,7 +6,7 @@ use commands "npm i" then "npm run build"
 ## How to run
 use command "node dist/index.js pathtohotels.json pathtoreservations.json"
 
-# Somme of prompts i have given to ChatGpt
+### Somme of prompts i have given to ChatGpt
 - generate appropriate typescript interfaces for this objects: here examle of hotels.json and reservations <br>
 - write a function that loads json from file <br>
 - write a function that converts list of json objects (here sample reservation object) to fit this interface (here Reservation interface)
